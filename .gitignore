@@ -1,0 +1,6 @@
+best_spamham_model.pth
+vocab.json
+spamham.csv
+email.csv
+sspam_ham_trainning.log
+myenv
